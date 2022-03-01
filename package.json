@@ -30,7 +30,7 @@
     "@mdx-js/mdx": "^1.6.11",
     "@mdx-js/react": "^1.6.11",
     "axios": "^0.24.0",
-    "babel-plugin-styled-components": "^1.10.7",
+    "babel-plugin-styled-components": "^2.0.6",
     "caniuse-lite": "^1.0.30001295",
     "dedent": "^0.7.0",
     "eslint": "^7.23.0",

@@ -33,7 +33,7 @@
     "babel-plugin-styled-components": "^1.10.7",
     "caniuse-lite": "^1.0.30001295",
     "dedent": "^0.7.0",
-    "eslint": "^7.23.0",
+    "eslint": "^8.10.0",
     "formik": "^2.2.9",
     "gatsby": "^3.2.1",
     "gatsby-awesome-pagination": "^0.3.8",
